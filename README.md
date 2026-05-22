@@ -3,7 +3,7 @@
 
 🎓 Systems Analysis and Development student (3rd semester)  
 💻 Full-Stack Developer passionate about technology and continuous learning  
-🌱 Currently exploring and learning Python, Web Development and FastAPI, Django and Next.js
+🌱 Currently exploring and learning Python, Web Development and FastAPI, Django and Next.js  
 ⚡ Always studying and building new projects 
 
 ### ⚒️ Technologies & Tools
