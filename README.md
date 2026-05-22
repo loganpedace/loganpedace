@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loganpedace&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=loganpedace&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 <!--PT
